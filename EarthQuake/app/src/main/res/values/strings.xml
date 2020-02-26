@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EarthQuake</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="more_info">More Info...</string>
+    <string name="hello">Hello</string>
+    <string name="magnitude">Magnitude:</string>
+    <string name="alert_earthquake_here">Alert Earthquake here</string>
+    <string name="see_list">See List</string>
+    <string name="title_activity_new_maps">Map</string>
+</resources>
